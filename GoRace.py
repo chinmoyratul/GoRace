@@ -1,4 +1,4 @@
-from OpenGL.GL import *
+gitfrom OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
 import sys
